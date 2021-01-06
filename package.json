@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^10.2.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-preset-expo": "^8.2.3",
     "expo": "~37.0.3",
     "node-libs-browser": "^2.2.1",
